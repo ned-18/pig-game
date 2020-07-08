@@ -10,4 +10,4 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
-My first project on the course **"The Complete JavaScript Course 2020: Build Real Projects!"**
+My first project on the course **"The Complete JavaScript Course 2020: Build Real Projects!"** on Udemy.
